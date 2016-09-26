@@ -1,9 +1,9 @@
 # Dom Richichi
 
-#### [☛ domrichichi.ca](https://domrichichi.ca) 
+#### [domrichichi.ca](https://domrichichi.ca) 
 
 
-Hey! I"m Dom
+Hey! I'm Dom
 
 Multidisciplinary Designer
 
@@ -14,8 +14,6 @@ My journey involves achieving a degree in fine arts, constantly creating, making
 I apply these very same life experiences to everything I put into my design work.
 
 Most of it revolves around experimentation, achieving beauty with depth, and evoking emotion. Whether it be someone passing around a business card I designed, or a reading digital comic book that I illustrated. 
-
-Nothing is better than creating experiences and new stories for other people.
 
 - **[domrichichi@gmail.com](mailto:domrichichi@gmail.com)** - [GitHub](https://github.com/domrichichi)
 
