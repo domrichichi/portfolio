@@ -2,18 +2,16 @@
 
 #### [domrichichi.ca](https://domrichichi.ca) 
 
+Hey! I'm Dom.
 
-Hey! I'm Dom
+I'm a pretty odd dude, with a warm heart.
 
-Multidisciplinary Designer
+Multidisplinary designer with an degree in art history and theory.
+                                                                                               
+My values revolve around always learning, always exploring , and be passionate about what you love.
 
-I'm an odd dude with a warm heart, and a need to create.
-
-My journey involves achieving a degree in fine arts, constantly creating, making new friends, and always exploring.
-
-I apply these very same life experiences to everything I put into my design work.
-
-Most of it revolves around experimentation, achieving beauty with depth, and evoking emotion. Whether it be someone passing around a business card I designed, or a reading digital comic book that I illustrated. 
+I apply these very same life experiences to what I put into my design work.
+Mostly through experimentation, achieving beauty through depth, and ultimately creating a memorable experience.
 
 - **[domrichichi@gmail.com](mailto:domrichichi@gmail.com)** - [GitHub](https://github.com/domrichichi)
 
