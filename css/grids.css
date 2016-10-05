@@ -1007,7 +1007,7 @@
   -ms-flex-grow: 2;
   -webkit-flex-grow: 2;
   flex-grow: 2;
-  max-width: 100%; /* @bugfix: IE 10, 11 */
+  max-width: 100%; /* @bugfix: IE 10, 11 
 }
 
 .content-shrink {
@@ -1015,3 +1015,4 @@
   -webkit-align-self: center;
   align-self: center;
 }
+*/

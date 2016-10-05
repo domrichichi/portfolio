@@ -56,11 +56,37 @@ header li, footer li {
 /*PPOJECT CARD*/
 
 
-/*.project-grid article {
-
-	padding: 0.5rem;
-}*/
 
 .project-grid img {
 	width: 90%;
 }
+
+.proj-thumb {
+	position: relative;
+	padding: 1em;
+}
+
+.proj {
+	position: absolute;
+	z-index: 1;
+	top: -40px;
+	left: 50px;
+}
+
+
+/*.proj-2 {
+	position: absolute;
+	z-index: 1;
+	top: 50px;
+}
+
+.proj-3 {
+	position: absolute;
+	z-index: 1;
+	top: 50px;
+}*/
+
+
+/*CSS TEST*/
+
+
