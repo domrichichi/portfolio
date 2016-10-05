@@ -36,7 +36,7 @@ body {
 	margin: auto;
 }
 
-header ol, footer ol {
+nav ol, footer ol {
 	list-style-type: none;
 	max-width: 50rem;
 	margin: auto;
@@ -49,8 +49,16 @@ header a, footer a {
 	text-decoration: none;
 }
 
-header li, footer li {
+footer li {
 	display: inline-block;
+}
+
+nav li {
+	display: block;
+}
+
+nav {
+	width: 100%;
 }
 
 h1 {
@@ -60,10 +68,8 @@ h1 {
 
 /*PPOJECT CARD*/
 
-
-
 .project-grid img {
-	width: 100%
+	width: 95%
 }
 
 .proj-thumb {
