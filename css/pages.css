@@ -17,4 +17,22 @@ html {
 }
 
 /*LAUNCH PAGE*/
- .launch-title
+
+.launch-grid {
+	height: 6em;
+	width: 100%;
+}
+
+/*-------ABOUT-------*/
+
+.bio {
+	padding-right: 2em;
+}
+
+/*-------CONTACT-------*/
+ 
+.contact a {
+	text-decoration: none;
+	display: block;
+}
+
