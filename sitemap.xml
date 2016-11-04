@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+	<url>
+		<loc>https://domrichichi.github.io/portfolio/</loc>
+		<priority>1.0</priority>
+		<changefreq>weekly</changefreq>
+		<lastmod>2015-08-29</lastmod>
+	</url>
+
+	<url>
+		<loc>https://domrichichi.github.io/portfolio/lilspooks.html</loc>
+	</url>
+
+	<url>
+		<loc>https://domrichichi.github.io/portfolio/recepta.html</loc>
+	</url>
+
+	<url>
+		<loc>https://domrichichi.github.io/portfolio/immunitywarriors.html</loc>
+	</url>
+
+	<url>
+		<loc>https://domrichichi.github.io/portfolio/theoddstop.html</loc>
+	</url>
+
+	<url>
+		<loc>https://domrichichi.github.io/portfolio/domonic.html</loc>
+	</url>
+
+</urlset>
+
