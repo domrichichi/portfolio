@@ -29,6 +29,10 @@ body {
 	margin: 1rem;
 }
 
+.underline {
+	border-bottom: 1px solid;
+}
+
 /*-------HEADER-------*/
 
 .logo-bar {
