@@ -16,7 +16,11 @@ html {
   font: normal 100%;
 }
 
-/*BODY*/
+
+/*-------VISIBLE-------*/
+
+
+/*-------BODY-------*/
 
 body {
 	margin: 1rem;
@@ -31,7 +35,7 @@ body {
 
 .logo-bar img {
 	display: block;
-	max-width: 500px;
+	max-width: 400px;
 	margin: auto;
 }
 
@@ -59,10 +63,6 @@ nav {
 h1 {
 	text-align: center;
 	width: 100%;
-}
-
-.name {
-	display: none;
 }
 
 /*-------Project Cards-------*/
