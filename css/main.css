@@ -23,6 +23,26 @@ h2 {
 	font-family: 'Cormorant Garamond', serif;
 }
 
+
+/*-------BUTTONS-------*/
+
+nav a:link {
+	color: black;
+}
+
+nav a:visited {
+	color: black;
+	text-decoration: line-through;
+}
+
+a:hover {
+
+}
+
+nav a:active {
+
+}
+
 /*-------BODY-------*/
 
 body {
