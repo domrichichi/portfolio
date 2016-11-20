@@ -20,11 +20,25 @@ html {
 /*-------TYPOGRAPHY-------*/
 
 h2 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Cormorant Garamond', serif;
+/*	font-family: 'EB Garamond', serif;*/
+/*	font-family: 'Open Sans', sans-serif;*/
 }
 
 
 /*-------BUTTONS-------*/
+
+a:link {
+	color: black;
+	text-decoration: none;
+}
+
+a:visited {
+ text-decoration: line-through;
+ color: black;
+}
+
+
 
 nav a:link {
 	color: black;
@@ -32,11 +46,11 @@ nav a:link {
 
 nav a:visited {
 	color: black;
-	text-decoration: underline;
+	text-decoration: line-through;
 }
 
-a:hover {
-
+nav a:hover {
+	text-decoration: line-through;
 }
 
 nav a:active {
