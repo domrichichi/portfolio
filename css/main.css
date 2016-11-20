@@ -20,7 +20,7 @@ html {
 /*-------TYPOGRAPHY-------*/
 
 h2 {
-	font-family: 'Cormorant Garamond', serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -32,7 +32,7 @@ nav a:link {
 
 nav a:visited {
 	color: black;
-	text-decoration: line-through;
+	text-decoration: underline;
 }
 
 a:hover {
